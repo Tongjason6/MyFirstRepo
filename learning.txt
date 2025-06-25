@@ -1,3 +1,3 @@
-I have learned how to create a file on command line.
+What I have learned from this course
 using echo. > learning.txt  
 also opening a file through notepad learning.txt
